@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Vasquez Masonry LLC | Concrete Contractors | Masonry Contractors | Driveways and Sidewalks | KY",
+    "phone": "+15026553632",
+    "category": "masonry contractor",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Masonry Experts",
+      "heroSubline": "Delivering quality concrete and masonry solutions throughout Louisville. Trust our experienced team for lasting results.",
+      "aboutTitle": "Decades of Masonry Excellence in Louisville",
+      "aboutText": [
+        "Vasquez Masonry LLC started with a simple goal: to provide reliable and durable masonry services to the Louisville community. Founded by seasoned masons with a passion for quality craftsmanship, we've built a reputation for excellence over the years.",
+        "Our approach is straightforward: understand the client's vision, apply our expertise, and execute the project with precision. We value clear communication, transparency, and a commitment to exceeding expectations. From initial consultation to final cleanup, we ensure a seamless and stress-free experience.",
+        "We're proud to be a part of the Louisville community. We source materials locally whenever possible, support local businesses, and strive to contribute to the city's growth and development. Our commitment extends beyond construction; it's about building lasting relationships."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Experienced masons dedicated to delivering superior quality and lasting results."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We prioritize clear communication, on-time project completion, and exceeding expectations."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Louisville's climate, soil conditions, and building codes."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Using only high-quality materials to ensure long-lasting durability and aesthetic appeal."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Property?",
+      "ctaSubline": "Contact Vasquez Masonry LLC today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "concrete-driveways",
+        "name": "Concrete Driveways",
+        "shortDescription": "Durable and expertly installed concrete driveways designed to withstand Louisville's weather.",
+        "description": "A new concrete driveway can dramatically enhance your home's curb appeal and functionality. Vasquez Masonry LLC specializes in designing and installing concrete driveways that are both aesthetically pleasing and built to last. We understand the unique challenges posed by Louisville's climate, from the freeze-thaw cycles that can cause cracking to the heavy rains that can lead to erosion. Our experienced team ensures proper site preparation, including grading, compaction, and drainage, to create a solid foundation for your driveway. \n\nWe offer a variety of finishing options, including stamped concrete, exposed aggregate, and colored concrete, allowing you to customize your driveway to match your home's style. Our skilled masons meticulously pour and finish the concrete, ensuring a smooth, even surface that resists cracking and wear. We also provide concrete driveway repair and resurfacing services to extend the life of your existing driveway. Whether you need a new driveway installed or your current one repaired, Vasquez Masonry LLC is your trusted partner for quality concrete solutions.",
+        "process": [
+          "Step 1: Consultation and Design",
+          "Step 2: Site Preparation and Grading",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Enhanced Property Value",
+          "Long-Lasting Durability",
+          "Customizable Design Options"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a concrete driveway?",
+            "answer": "The installation time varies depending on the size and complexity of the project, but typically takes between 3-5 days."
+          },
+          {
+            "question": "What type of concrete is used for driveways?",
+            "answer": "We use high-strength concrete mixes specifically designed for driveway applications, ensuring durability and resistance to cracking."
+          },
+          {
+            "question": "How can I prevent cracks in my concrete driveway?",
+            "answer": "Proper site preparation, reinforcement, and sealing are essential for preventing cracks. We address these factors during installation to ensure a long-lasting driveway."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-sidewalks",
+        "name": "Concrete Sidewalks",
+        "shortDescription": "Enhance safety and accessibility with expertly crafted concrete sidewalks.",
+        "description": "Vasquez Masonry LLC provides professional concrete sidewalk installation and repair services to improve the safety and accessibility of your property. Sidewalks are essential for pedestrian traffic and contribute to the overall aesthetic of your home or business. We understand the importance of proper design and construction to ensure a smooth, even surface that minimizes tripping hazards and complies with local regulations.\n\nOur team carefully assesses the site, taking into account factors such as drainage, slope, and soil conditions. We use high-quality concrete mixes and reinforcement techniques to create sidewalks that are durable and resistant to cracking. We also offer a variety of finishing options, including broom finishes and decorative stamping, to enhance the appearance of your sidewalk. Whether you need a new sidewalk installed or your existing one repaired, Vasquez Masonry LLC delivers reliable and cost-effective solutions.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Excavation and Grading",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Improved Pedestrian Safety",
+          "Enhanced Property Accessibility",
+          "Increased Curb Appeal",
+          "Compliance with Local Regulations"
+        ],
+        "faq": [
+          {
+            "question": "What are the common causes of sidewalk damage?",
+            "answer": "Common causes include tree root growth, freeze-thaw cycles, and heavy loads. We address these factors during installation to minimize future damage."
+          },
+          {
+            "question": "How can I maintain my concrete sidewalk?",
+            "answer": "Regular cleaning and sealing can help protect your sidewalk from stains and damage. We recommend sealing your sidewalk every 2-3 years."
+          },
+          {
+            "question": "Do you offer sidewalk repair services?",
+            "answer": "Yes, we offer a full range of sidewalk repair services, including crack filling, patching, and replacement of damaged sections."
+          }
+        ]
+      },
+      {
+        "slug": "brick-masonry",
+        "name": "Brick Masonry",
+        "shortDescription": "Classic and durable brickwork for homes and businesses in Louisville.",
+        "description": "Brick masonry is a timeless choice for adding character and durability to your property. Vasquez Masonry LLC specializes in brick construction, repair, and restoration services. Our skilled masons have extensive experience working with brick, ensuring precise craftsmanship and lasting results. From brick walls and chimneys to patios and walkways, we can create beautiful and functional brick features that enhance your property's value.\n\nWe use high-quality bricks and mortars that are specifically designed for the Louisville climate. Our team carefully selects materials that complement your home's style and provide long-lasting performance. We also offer brick repointing services to repair damaged mortar joints and prevent water damage. Whether you need a new brick structure built or your existing brickwork repaired, Vasquez Masonry LLC is your reliable partner for quality brick solutions.",
+        "process": [
+          "Step 1: Design and Material Selection",
+          "Step 2: Foundation Preparation",
+          "Step 3: Brick Laying and Mortaring",
+          "Step 4: Cleaning and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Aesthetic Appeal",
+          "Increased Property Value",
+          "Excellent Durability",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of brick masonry?",
+            "answer": "Brick is a durable, fire-resistant, and aesthetically pleasing material that can add value to your property."
+          },
+          {
+            "question": "How can I maintain my brickwork?",
+            "answer": "Regular cleaning and repointing can help maintain the appearance and integrity of your brickwork. We recommend inspecting your brickwork annually for signs of damage."
+          },
+          {
+            "question": "What is brick repointing?",
+            "answer": "Repointing is the process of removing and replacing damaged mortar joints in brickwork. This helps prevent water damage and maintain the structural integrity of the brick."
+          }
+        ]
+      },
+      {
+        "slug": "stone-masonry",
+        "name": "Stone Masonry",
+        "shortDescription": "Elegant and enduring stone features crafted by skilled masons.",
+        "description": "Stone masonry adds a touch of elegance and sophistication to any property. Vasquez Masonry LLC specializes in stone construction, repair, and restoration services. Our skilled masons have a deep understanding of stone types, cutting techniques, and installation methods. From stone walls and fireplaces to patios and walkways, we can create stunning stone features that enhance your property's beauty and value.\n\nWe work with a variety of natural stones, including limestone, sandstone, and granite, to create unique and custom designs. Our team carefully selects stones that complement your home's style and provide long-lasting performance. We also offer stone cleaning and sealing services to protect your stone features from the elements. Whether you need a new stone structure built or your existing stonework repaired, Vasquez Masonry LLC is your trusted partner for quality stone solutions.",
+        "process": [
+          "Step 1: Design and Stone Selection",
+          "Step 2: Foundation Preparation",
+          "Step 3: Stone Cutting and Shaping",
+          "Step 4: Stone Laying and Mortaring"
+        ],
+        "benefits": [
+          "Exceptional Aesthetic Appeal",
+          "Increased Property Value",
+          "Superior Durability",
+          "Unique and Custom Designs"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of stone masonry?",
+            "answer": "Stone is a durable, natural, and aesthetically pleasing material that can add significant value to your property."
+          },
+          {
+            "question": "How can I maintain my stonework?",
+            "answer": "Regular cleaning and sealing can help protect your stonework from stains and damage. We recommend inspecting your stonework annually for signs of damage."
+          },
+          {
+            "question": "What types of stone do you work with?",
+            "answer": "We work with a variety of natural stones, including limestone, sandstone, granite, and fieldstone."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-repair",
+        "name": "Foundation Repair",
+        "shortDescription": "Reliable foundation repair services to protect your home's structural integrity.",
+        "description": "A damaged foundation can compromise the structural integrity of your entire home. Vasquez Masonry LLC offers comprehensive foundation repair services to address cracks, settling, and other foundation issues. We understand the unique challenges posed by Louisville's soil conditions and the importance of proper diagnosis and repair.\n\nOur team conducts thorough inspections to identify the root cause of the problem and develop a customized repair plan. We use a variety of proven techniques, including crack injection, underpinning, and soil stabilization, to restore your foundation's stability. We also offer foundation waterproofing services to prevent future water damage. Whether you have minor cracks or major structural issues, Vasquez Masonry LLC is your trusted partner for reliable foundation repair solutions.",
+        "process": [
+          "Step 1: Foundation Inspection",
+          "Step 2: Problem Diagnosis",
+          "Step 3: Repair Plan Development",
+          "Step 4: Repair Execution"
+        ],
+        "benefits": [
+          "Improved Structural Stability",
+          "Prevention of Further Damage",
+          "Increased Property Value",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of foundation problems?",
+            "answer": "Common signs include cracks in walls, uneven floors, sticking doors and windows, and water leaks in the basement."
+          },
+          {
+            "question": "How much does foundation repair cost?",
+            "answer": "The cost of foundation repair varies depending on the severity of the problem and the repair method used. We provide free estimates after a thorough inspection."
+          },
+          {
+            "question": "What is foundation underpinning?",
+            "answer": "Underpinning is the process of strengthening and stabilizing a foundation by extending it deeper into the ground."
+          }
+        ]
+      },
+      {
+        "slug": "chimney-repair",
+        "name": "Chimney Repair",
+        "shortDescription": "Expert chimney repair and restoration services for safe and efficient operation.",
+        "description": "A damaged chimney can pose serious safety hazards and compromise the efficiency of your fireplace or heating system. Vasquez Masonry LLC offers comprehensive chimney repair and restoration services to ensure the safe and efficient operation of your chimney. We understand the importance of regular maintenance and timely repairs to prevent costly damage and potential hazards.\n\nOur team conducts thorough inspections to identify cracks, leaks, and other chimney issues. We use a variety of proven techniques, including brick repointing, flue liner repair, and chimney crown replacement, to restore your chimney's integrity. We also offer chimney cleaning services to remove creosote buildup and prevent chimney fires. Whether you have minor cracks or major structural issues, Vasquez Masonry LLC is your trusted partner for reliable chimney repair solutions.",
+        "process": [
+          "Step 1: Chimney Inspection",
+          "Step 2: Problem Diagnosis",
+          "Step 3: Repair Plan Development",
+          "Step 4: Repair Execution"
+        ],
+        "benefits": [
+          "Improved Safety",
+          "Enhanced Efficiency",
+          "Prevention of Costly Damage",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of chimney damage?",
+            "answer": "Common signs include cracks in the chimney, missing bricks, water leaks, and creosote buildup."
+          },
+          {
+            "question": "How often should I have my chimney cleaned?",
+            "answer": "We recommend having your chimney cleaned annually to remove creosote buildup and prevent chimney fires."
+          },
+          {
+            "question": "What is a chimney crown?",
+            "answer": "The chimney crown is the concrete slab that covers the top of the chimney, protecting it from water damage."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Functional and attractive retaining walls to manage soil and enhance landscapes.",
+        "description": "Vasquez Masonry LLC constructs retaining walls that are both functional and visually appealing, designed to manage soil erosion and enhance your landscape. Addressing the common issues from Louisville's varying terrain, we ensure these walls are built to last. We understand the importance of proper design and construction to ensure stability and longevity.\n\nOur team will assess your property to determine what type of retaining wall best suits your needs. Whether it's for controlling soil on a sloped yard, terracing a garden, or preventing erosion along a driveway, we provide custom solutions. Using durable materials like concrete blocks, natural stone, or treated timbers, we build retaining walls that seamlessly blend with the surrounding environment. We focus on proper drainage and structural integrity to prevent future issues.",
+        "process": [
+          "Step 1: Site Evaluation and Design",
+          "Step 2: Material Selection",
+          "Step 3: Excavation and Foundation",
+          "Step 4: Wall Construction and Drainage"
+        ],
+        "benefits": [
+          "Erosion Control",
+          "Landscape Enhancement",
+          "Property Value Increase",
+          "Effective Soil Management"
+        ],
+        "faq": [
+          {
+            "question": "How high can a retaining wall be before needing a permit?",
+            "answer": "In Louisville, retaining walls over 4 feet in height typically require a building permit. We manage the permit process for you."
+          },
+          {
+            "question": "What materials are best for retaining walls in Louisville's climate?",
+            "answer": "Concrete blocks and natural stone are excellent choices due to their durability and resistance to freeze-thaw cycles."
+          },
+          {
+            "question": "How important is drainage for a retaining wall?",
+            "answer": "Drainage is critical to prevent water buildup behind the wall, which can lead to instability and failure. We ensure proper drainage systems are in place."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC is proud to offer comprehensive masonry services throughout Louisville, KY. From historic brick restoration in Old Louisville to new concrete driveway installations in the suburbs, our experienced team is dedicated to providing high-quality craftsmanship and exceptional customer service. We understand the unique architectural styles and construction needs of Louisville homes and businesses. \n\nWe handle all types of masonry projects, including brickwork, stonework, concrete work, and more. Whether you need a new patio, a repaired chimney, or a custom-designed outdoor living space, Vasquez Masonry LLC has the expertise to bring your vision to life. We are committed to using the best materials and techniques to ensure lasting results.",
+        "localContext": "Louisville is a vibrant city known for its bourbon distilleries, horse racing, and diverse neighborhoods, each with its own distinct character.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC extends its expert masonry services to Jeffersontown, KY. We understand Jeffersontown's blend of residential and commercial properties, and we tailor our services to meet the specific needs of each client. Whether it's constructing durable sidewalks for businesses or crafting beautiful brick patios for homes, we deliver exceptional results.\n\nOur team is skilled in a variety of masonry techniques, ensuring that every project is completed to the highest standards. We are committed to providing reliable and professional service to the Jeffersontown community.",
+        "localContext": "Jeffersontown is a thriving suburban community with a strong business presence and a family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Louisville",
+          "Hurstbourne",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC is a trusted provider of masonry services in St. Matthews, KY. We are familiar with the area's diverse architecture, from charming bungalows to modern commercial buildings. Our services include brick repair, concrete driveway installation, and custom masonry design.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction. Whether you need a small repair or a large-scale project, Vasquez Masonry LLC is here to help.",
+        "localContext": "St. Matthews is a bustling city known for its shopping centers, restaurants, and vibrant community.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC provides expert masonry services to residents and businesses in Shively, KY. We are experienced in handling a wide range of projects, from foundation repairs to decorative stonework. Our team is dedicated to delivering high-quality workmanship and exceptional customer service.\n\nWe understand the unique needs of the Shively community and are committed to providing reliable and affordable masonry solutions. Whether you need a new concrete patio or brickwork repairs, Vasquez Masonry LLC is here to help.",
+        "localContext": "Shively is a city with a strong sense of community and a mix of residential and industrial areas.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC proudly offers its masonry expertise to the Lyndon, KY community. We understand the architectural styles prevalent in Lyndon, from traditional homes to modern constructions, and tailor our services accordingly. Our offerings include brick and stone work, concrete patios, and durable driveway construction.\n\nWe are committed to providing Lyndon residents with the highest quality service, using only the best materials and techniques to ensure lasting results. Whether you need a small repair or a complete outdoor living space, Vasquez Masonry LLC is here to bring your vision to life.",
+        "localContext": "Lyndon is a charming city known for its tree-lined streets, family-friendly atmosphere, and convenient access to Louisville.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Louisville",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC extends its professional masonry services to Middletown, KY. We are familiar with Middletown's blend of historic and contemporary architecture, and we adapt our services to suit the specific needs of each project. Our services include brick repair, concrete installations, and custom masonry design.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction, delivering exceptional results, no matter the size or scope of the project. Whether you need a new patio, a repaired chimney, or a custom-designed outdoor living space, Vasquez Masonry LLC has the expertise to meet your needs.",
+        "localContext": "Middletown is a historic city with a vibrant community and a mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Lyndon",
+          "Jeffersontown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC provides a full suite of masonry services to the Anchorage, KY area. We understand the unique characteristics of Anchorage homes and landscapes, and we tailor our services to complement the area's upscale aesthetic. Our services include custom stonework, brick pathways, and durable concrete solutions.\n\nWe are committed to using the finest materials and techniques to ensure that every project enhances the beauty and value of your home. Whether you need a new retaining wall, a brick patio, or concrete sidewalk, Vasquez Masonry LLC is here to help.",
+        "localContext": "Anchorage is an affluent city known for its large estates, horse farms, and scenic beauty.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Pewee Valley"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "Vasquez Masonry LLC is your trusted masonry contractor in Valley Station, KY. We understand the construction and style of homes in Valley Station and provide services that fit your needs. Whether it's building a new patio for your family to enjoy, or a new driveway, Vasquez Masonry LLC has you covered!\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction, delivering exceptional results, no matter the size or scope of the project. Whether you need a new patio, a repaired chimney, or a custom-designed outdoor living space, Vasquez Masonry LLC has the expertise to meet your needs.",
+        "localContext": "Valley Station is a suburb of Louisville with a strong community and lots of options for outdoor activities.",
+        "nearbyAreas": [
+          "Shively",
+          "Pleasure Ridge Park",
+          "Louisville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Concrete Driveway",
+        "text": "Vasquez Masonry did an outstanding job on our new driveway. The crew was professional, efficient, and the finished product exceeded our expectations. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Brick Patio",
+        "text": "We hired Vasquez Masonry to build a brick patio in our backyard. They were very knowledgeable and provided great design suggestions. The patio looks fantastic!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Foundation Repair",
+        "text": "Our foundation had some serious cracks, and we were worried about the structural integrity of our home. Vasquez Masonry provided a thorough assessment and completed the repairs quickly and effectively. Great service!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Lisa M.",
+        "rating": 5,
+        "service": "Chimney Repair",
+        "text": "Vasquez Masonry repaired our chimney after a storm caused some damage. They were prompt, professional, and the repairs were done to a high standard. We will definitely use them again.",
+        "date": "2024-05-10"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Concrete Sidewalk",
+        "text": "Needed a new sidewalk installed in front of my house after the old one cracked. Vasquez Masonry provided a fair quote, and the work was completed on time and as promised. Solid work.",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Retaining Wall",
+        "text": "We had a sloping backyard that was difficult to manage. Vasquez Masonry built a beautiful and functional retaining wall that transformed our outdoor space. Highly recommend their services!",
+        "date": "2023-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Vasquez Masonry LLC | Louisville KY",
+        "description": "Expert concrete & masonry contractors in Louisville. Driveways, sidewalks, foundations, brick & stone work. Call us!"
+      },
+      "about": {
+        "title": "About Vasquez Masonry LLC",
+        "description": "Learn about Vasquez Masonry LLC, Louisville's trusted masonry contractor. Quality craftsmanship and reliable service."
+      },
+      "services": {
+        "title": "Vasquez Masonry Services",
+        "description": "Concrete driveways, sidewalks, brick, stone, foundation repair in Louisville. Reliable and quality workmanship."
+      },
+      "contact": {
+        "title": "Contact Vasquez Masonry LLC",
+        "description": "Get a free quote for your masonry project in Louisville. Contact us today for expert consultation and service."
+      },
+      "reviews": {
+        "title": "Vasquez Masonry LLC Reviews",
+        "description": "Read reviews from satisfied customers of Vasquez Masonry LLC in Louisville. Quality concrete and masonry services."
+      },
+      "service-areas": {
+        "title": "Vasquez Masonry Service Areas",
+        "description": "Vasquez Masonry LLC provides concrete and masonry services throughout Louisville and surrounding areas in KY."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "concrete-driveways": "/images/service-concrete-driveways.webp",
+      "concrete-sidewalks": "/images/service-concrete-sidewalks.webp",
+      "brick-masonry": "/images/service-brick-masonry.webp",
+      "stone-masonry": "/images/service-stone-masonry.webp",
+      "foundation-repair": "/images/service-foundation-repair.webp",
+      "chimney-repair": "/images/service-chimney-repair.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp"
+    },
+    "servicesResponsive": {
+      "concrete-driveways": {
+        "src": "/images/service-concrete-driveways.webp",
+        "srcset": "/images/service-concrete-driveways-400w.webp 400w, /images/service-concrete-driveways-800w.webp 800w, /images/service-concrete-driveways-1200w.webp 1200w, /images/service-concrete-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-sidewalks": {
+        "src": "/images/service-concrete-sidewalks.webp",
+        "srcset": "/images/service-concrete-sidewalks-400w.webp 400w, /images/service-concrete-sidewalks-800w.webp 800w, /images/service-concrete-sidewalks-1200w.webp 1200w, /images/service-concrete-sidewalks.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "brick-masonry": {
+        "src": "/images/service-brick-masonry.webp",
+        "srcset": "/images/service-brick-masonry-400w.webp 400w, /images/service-brick-masonry-800w.webp 800w, /images/service-brick-masonry-1200w.webp 1200w, /images/service-brick-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stone-masonry": {
+        "src": "/images/service-stone-masonry.webp",
+        "srcset": "/images/service-stone-masonry-400w.webp 400w, /images/service-stone-masonry-800w.webp 800w, /images/service-stone-masonry-1200w.webp 1200w, /images/service-stone-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-repair": {
+        "src": "/images/service-foundation-repair.webp",
+        "srcset": "/images/service-foundation-repair-400w.webp 400w, /images/service-foundation-repair-800w.webp 800w, /images/service-foundation-repair-1200w.webp 1200w, /images/service-foundation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chimney-repair": {
+        "src": "/images/service-chimney-repair.webp",
+        "srcset": "/images/service-chimney-repair-400w.webp 400w, /images/service-chimney-repair-800w.webp 800w, /images/service-chimney-repair-1200w.webp 1200w, /images/service-chimney-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
